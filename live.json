@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Kanal Adı 1",
+    "logo": "https://ornek.com/logo1.png",
+    "url": "https://yayin-adresi-1.m3u8",
+    "category": "Kategori Adı"
+  },
+  {
+    "name": "Kanal Adı 2",
+    "logo": "https://ornek.com/logo2.png",
+    "url": "https://yayin-adresi-2.m3u8",
+    "category": "Kategori Adı"
+  }
+]
