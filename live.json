@@ -1,14 +1,14 @@
 [
   {
-    "name": "Kanal Adı 1",
-    "logo": "https://ornek.com/logo1.png",
-    "url": "https://yayin-adresi-1.m3u8",
-    "category": "Kategori Adı"
+    "name": "TRT Haber",
+    "logo": "https://i.imgur.com/example1.png",
+    "url": "https://tv-trthaber.live.trt.com.tr/master.m3u8",
+    "category": "Haber"
   },
   {
-    "name": "Kanal Adı 2",
-    "logo": "https://ornek.com/logo2.png",
-    "url": "https://yayin-adresi-2.m3u8",
-    "category": "Kategori Adı"
+    "name": "TRT Belgesel",
+    "logo": "https://i.imgur.com/example2.png",
+    "url": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8",
+    "category": "Belgesel"
   }
 ]
